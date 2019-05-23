@@ -1,5 +1,5 @@
 # Calculator
-This project was developed for study company using React.
+This project was developed to study using React.
 
 ## Requirements:
 
